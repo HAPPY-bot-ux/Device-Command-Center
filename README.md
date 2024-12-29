@@ -1,5 +1,4 @@
 
-Here's a more concise and structured version of the README with clear sections:
 
 Device Command Center
 A web-based tool to remotely control an Android device, execute commands, and interact with apps like WhatsApp, Facebook, and Instagram.
